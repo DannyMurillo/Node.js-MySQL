@@ -2,15 +2,16 @@
 
 **Created Week 12 of the UCLA full stack Web Dev Coding Bootcamp.**
 
-##To Start
+## To Start
 - Clone the Repo to where you want the folder to be on your computer
 - Copy the sql file into your MySql Pro editor to create the local database
 - Make sure to run npm install "requirer" and "mysql"
 - Run the command "node BamazonCustomerView.js"
 
 * code should end after each purchase by the customer. 
+* Screen Shot shows a Demo of how it would look in your terminal 
 
-##BamazonCustomerView.js
+## BamazonCustomerView.js
 
 - This file prints the products into the bash/terminal window
 - Then allows the customer to decide how many products they want and their total cost
